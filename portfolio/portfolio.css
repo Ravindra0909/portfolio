@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar {
+    font-size: 15px;
+    font-family: italic;
+    background-color: #cfd0d1;
+}
+
+.text {
+    padding: 90px;
+
+    margin: 40px;
+}
+
+.h {
+    padding-top: 40px;
+    font-family: Roboto;
+    font-size: 25px;
+}
+
+.hh {
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.p {
+    padding-top: 30px;
+    font-size: 15px;
+}
+
+button {
+    margin-left: 80px;
+
+
+    color: white;
+
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 40px;
+}
+
+.cont {
+    border-style: none;
+    border-radius: 10px;
+    border-color: grey;
+    padding: 20px;
+    margin: 30px;
+}
+
+.bg-cont {
+
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.ms {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.bgcontainer {
+    border-style: none;
+    border-radius: 10px;
+
+    padding: 20px;
+    margin: 15px;
+}
+
+.pro1 {
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.pro {
+    text-align: center;
+    color: #2f1836;
+    font-size: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.image {
+    height: 200px;
+    width: 300px;
+}
+
+.image1 {
+    height: 250px;
+    width: 250px;
+}
+
+.bgcontainer {
+    border-style: none;
+    border-radius: 10px;
+
+    padding: 20px;
+    margin: 15px;
+}
+
+.pro1 {
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.pro {
+    text-align: center;
+    color: #2f1836;
+    font-size: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.image {
+    height: 200px;
+    width: 300px;
+}
+
+.image1 {
+    height: 250px;
+    width: 250px;
+}
+
+.contact-section {
+    background-color: white;
+}
+
+.contact-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.contact-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
